@@ -1,5 +1,11 @@
 # rusty_vulkan
 
+> **This repository has moved.** `rusty_vulkan` now lives at
+> [`crates/rusty_vulkan`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_vulkan)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 A `#![no_std]` + `alloc` sovereign raw Vulkan hardware command buffer and
 GPU surface layer for the **Rusty Mill** ecosystem.
 
